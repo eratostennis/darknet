@@ -25,3 +25,10 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
+
+# built
+libdarknet.a
+libdarknet.so
+
+# data file
+yolov3.weights
